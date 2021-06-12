@@ -183,8 +183,7 @@ td,th
 	padding: 0;
 }
 html
-{
-	color: #4d4d4d;
+{	
 	font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
 	font-size: 16px;
 	font-weight: 300;
@@ -251,11 +250,11 @@ h3,h4,h5,h6
 }
 a
 {
-	color: #5e98ba;
+	color: #053450;
 }
 a:hover
 {
-	color: #265773;
+	color: #396e8d;
 }
 .quiet
 {
